@@ -1,0 +1,1 @@
+{'VolumeMusique': 0, 'VolumeSon': 0, 'bind': {'droite': 'RIGHT', 'gauche': 'LEFT', 'tir': 'UP'}}
